@@ -2,16 +2,14 @@ project:
   type: website
 
 website:
-  title: "Skyler Elmstrom's Portfolio"
+  title: "Skyler Elmstrom's Blog"
+  site-url: https://blog.skylere.com
   navbar:
     right:
-      # - about.qmd
       - icon: github
         href: https://github.com/SkylerElmstrom
       - icon: rss
         href: index.xml
-      # - icon: twitter
-      #   href: https://twitter.com
 format:
   html:
     theme: spacelab

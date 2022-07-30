@@ -1,13 +1,15 @@
 ---
-title: "Blog"
+title: ""
 listing:
   contents: posts
   sort: "date desc"
-  type: default
-  categories: true
+  type: grid
+  categories: cloud
+  fields: [image, date, title, author, reading-time]
+  page-size: 18
   feed: true
   sort-ui: false
   filter-ui: false
 page-layout: full
-title-block-banner: true
+title-block-banner: false
 ---
