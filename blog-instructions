@@ -1,0 +1,23 @@
+https://quarto.org/docs/websites/website-blog.html
+
+# Create a new folder with index.Qmd in Posts folder
+
+# Keep date static
+
+# Add categories
+
+---
+
+
+categories:
+  - news
+  - code
+  - analysis
+---
+
+# Create a draft only
+draft: true
+
+# freeze computational output
+freeze: true
+
